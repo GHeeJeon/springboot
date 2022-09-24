@@ -12,4 +12,5 @@ public class Customer {
     private String name;
     @Column(length=1024)
     private String address;
+    private String primaryContact;
 }
