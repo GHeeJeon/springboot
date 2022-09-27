@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+spring/mvnw
+spring/mvnw.cmd
+spring/.mvn/wrapper/maven-wrapper.properties
